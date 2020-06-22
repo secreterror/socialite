@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "993738202180",
+    "firebase_url": "https://socialite-8ddf4.firebaseio.com",
+    "project_id": "socialite-8ddf4",
+    "storage_bucket": "socialite-8ddf4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993738202180:android:527d343bee335459273011",
+        "android_client_info": {
+          "package_name": "com.example.social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993738202180-po6db43di565t31l5hetofs7korialpo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.social",
+            "certificate_hash": "3b3bdbf51758b6029ab0b9e26e7e42e50376b13a"
+          }
+        },
+        {
+          "client_id": "993738202180-f84tbu04nujftbnlckvogfn8macrvlkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCgfF43j633cr4OaQgz5lmQn8nvtxL3zM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993738202180-f84tbu04nujftbnlckvogfn8macrvlkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
